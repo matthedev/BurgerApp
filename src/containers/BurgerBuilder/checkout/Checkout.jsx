@@ -40,7 +40,7 @@ class Checkout extends Component {
           continueCheckout={this.continueCheckoutHandler}
         />
         <Route
-          path={this.props.match.path + "/contact-data"}
+          path={this.props.match.path + "/BurgerApp"}
           render={(props) => (
             <ContactData
               ingredients={this.state.ingredients}
