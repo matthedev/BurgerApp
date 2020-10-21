@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://matthedev.github.io/BurgerApp",
+  "homepage": "http://matthedev.github.io/BurgerApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
